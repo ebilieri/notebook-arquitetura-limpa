@@ -1,5 +1,7 @@
 # 🏛️ Arquitetura Limpa: O que é e como implementar
 
+🔗 **Acesso ao NotebookLM:** [Clique aqui para acessar o caderno público](https://notebooklm.google.com/notebook/84a6aeb0-a336-4af4-b05a-186b0a71f05a)
+
 ## 🎯 Contexto e Objetivos
 Este caderno temático explora o conceito de **Arquitetura Limpa (Clean Architecture)** — um padrão de desenvolvimento de software que visa separar as regras de negócio das tecnologias e frameworks externos.
 
